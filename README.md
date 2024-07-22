@@ -9,7 +9,6 @@ This project demonstrates how to use transformer-based models for abstractive su
 - [Project Description](#project-description)
 - [Hyperparameter Tuning](#hyperparameter-tuning)
 - [Acknowledgments](#acknowledgments)
-- [License](#license)
 
 ## Installation
 
